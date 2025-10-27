@@ -27,11 +27,9 @@
 </div>
 
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Camilycastro-dev/Camilycastro-dev/output/snake.svg" alt="Snake animation" />
 
-###
+
+
 
